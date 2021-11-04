@@ -2,6 +2,7 @@
 Я решила взять пару научных и пару новостных текстов, длина от 70 токенов до 3к слов, количество ключевых слов тоже разное.
 
 1. https://publications.hse.ru/mirror/pubs/share/direct/524500028.pdf
+
 **Тема:** Роль одушевлённости в употреблении анафорических и указательных местоимений в русском и французском языках
 
 **Количество слов:** >3к
@@ -15,6 +16,7 @@
 
 
 2. http://ceur-ws.org/Vol-2233/Paper_8.pdf
+
 **Тема:** Анализ тональности текста с использованием методов машинного обучения
 
 **Количество слов:** >1.5к
@@ -28,6 +30,7 @@
 
 
 3. https://news.sportbox.ru/Vidy_sporta/Futbol/Bubnov/spbnews_NI1430733_Aleksandr_Bubnov_Brazilcy_podveli_Semaka_no_Juventus_vse_ravno_byl_silneje
+
 **Тема:** Новости спорта, футбольная экспертиза
 
 **Количество слов:** >400
@@ -41,6 +44,7 @@
 
 
 4. https://news.sportbox.ru/Vidy_sporta/Futbol/Liga_Chempionov/spbnews_NI1423617_Ronaldu_emocionalno_otreagiroval_na_pobedu_nad_Atalantoj_v_Lige_chempionov
+
 **Тема:** Новости спорта, короткая новость
 
 **Количество слов:** >70
